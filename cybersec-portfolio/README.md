@@ -1,4 +1,4 @@
-# John Doe – Aspiring Cybersecurity Analyst
+# Zap! – Aspiring Cybersecurity Analyst
 
 Welcome to my GitHub portfolio focused on cybersecurity learning and projects.
 
