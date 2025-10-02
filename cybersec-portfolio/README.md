@@ -14,6 +14,4 @@ Welcome to my GitHub portfolio focused on cybersecurity learning and projects.
 ## Notes
 - `notes/wireshark_basics.md` - Beginner notes on Wireshark
 
-## Contact
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
+
